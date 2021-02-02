@@ -1,0 +1,157 @@
+.hidden
+{
+	display: none;
+}
+
+#container{
+	width: 960px;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+
+h1{
+	font-family: 'Noto Serif JP', serif;
+	letter-spacing: 2px;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 15px;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+h2{
+	font-family: 'Roboto', sans-serif;
+	font-size: 40px;
+	margin-top: 50px;
+	margin-bottom: 15px;
+}
+
+h3{
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+	font-size: 40px;
+	margin-top: 50px;
+	margin-bottom: 15px;
+	text-align: left;
+}
+
+h4{
+	font-size: 34px;
+	text-align: left;
+	margin-bottom: 15px;
+}
+
+#intro{	
+	font-family: 'Cabin', sans-serif;
+	font-size: 18px;
+	text-align: justify;
+	line-height: 20px;
+	width: 895px;
+	margin: 0 auto;
+}
+
+#beer_taps{
+	margin-top: 25px;
+}
+
+#beer_taps img{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.harpoon{
+	font-family: 'Cabin', sans-serif;
+	font-size: 18px;
+	text-align: justify;
+	letter-spacing: 0.5px;
+	line-height: 20px;
+	padding-bottom: 15px;
+	width: 900px;
+	margin-left: 25px;
+}
+
+#green_harpoon img{
+	width: 700px;
+	display: block;
+	margin: 0 auto;
+}
+
+#tap_server img{
+	width: 960px;
+}
+
+.reserve{
+	font-family: 'Cabin', sans-serif;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+	line-height: 20px;
+	padding-bottom: 15px;
+	width: 850px;
+	margin-left: 25px;
+	margin-top: 20px;
+	text-align: justify;
+}
+
+#reserve_pull{
+	font-family: 'Noto Serif JP', serif;
+	font-weight: bold;
+	width: 600px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 10px;
+	font-size: 18px;
+	color: #727272;
+	font-style: italic;
+	letter-spacing: 1.5px;
+	line-height: 25px;
+}
+
+#wolverine_row{
+	margin-top: 20px;
+	display: flex;
+	flex-direction: row;
+}
+
+#table_pints img{
+	margin-top:50px;
+	width: 450px;
+
+}
+
+#wolverine_text{
+	font-family: 'Cabin', sans-serif;
+	text-align: left;
+	font-size: 18px;
+	margin-top: 50px;
+	padding-right: 25px;
+	line-height: 20px;
+}
+
+#conclusion_row{
+	display: flex;
+	flex-direction: row;
+	margin-top: 50px;
+}
+
+
+#drinking_glass img{
+	width: 550px;
+}
+
+#conclusion_text{
+	font-family: 'Cabin', sans-serif;
+	text-align: left;
+	font-size: 18px;
+	padding-right: 10px;
+	line-height: 20px;
+	letter-spacing: 0.5px;
+	text-align: justify;
+	margin-left: 15px;
+	margin-top: 65px;
+}
+
+
+
+
+
+
